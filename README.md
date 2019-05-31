@@ -14,6 +14,7 @@ and doors, but at the core of both kinds of patterns is a solution to a problem 
 context.
 
 In general, a pattern has four essential elements:
+
 1. The pattern name is a handle we can use to describe a design problem, its solutions,
 and consequences in a word or two. Naming a pattern immediately
 increases our design vocabulary. It lets us design at a higher level of abstraction.
