@@ -64,6 +64,11 @@ use.
 ## Classifying Patterns
 According to Gamma design patterns can be classified under three purposes. The three purposes are:
 
-Creational: how an object can be created. This often involves isolating the details of object creation so your code isn’t dependent on what types of objects there are and thus doesn’t have to be changed when you add a new type of object. The aforementioned Singleton is classified as a creational pattern, and later in this book you’ll see examples of Factory Method and Prototype.
-Structural: designing objects to satisfy particular project constraints. These work with the way objects are connected with other objects to ensure that changes in the system don’t require changes to those connections.
-Behavioral: objects that handle particular types of actions within a program. These encapsulate processes that you want to perform, such as interpreting a language, fulfilling a request, moving through a sequence (as in an iterator), or implementing an algorithm. This book contains examples of the Observer and the Visitor patterns.
+### Creational
+How an object can be created. This often involves isolating the details of object creation so your code isn’t dependent on what types of objects there are and thus doesn’t have to be changed when you add a new type of object. The aforementioned Singleton is classified as a creational pattern, and later in this book you’ll see examples of Factory Method and Prototype.
+
+### Structural
+Designing objects to satisfy particular project constraints. These work with the way objects are connected with other objects to ensure that changes in the system don’t require changes to those connections.
+
+### Behavioral
+Objects that handle particular types of actions within a program. These encapsulate processes that you want to perform, such as interpreting a language, fulfilling a request, moving through a sequence (as in an iterator), or implementing an algorithm. This book contains examples of the Observer and the Visitor patterns.
