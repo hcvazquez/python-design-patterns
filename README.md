@@ -1,4 +1,4 @@
-# python-design-patterns
+# Python Design Patterns
 
 A repository of design patterns implemented in python.
 
