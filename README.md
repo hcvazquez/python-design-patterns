@@ -7,11 +7,8 @@ A repository of design patterns implemented in python.
 Each pattern describes a problem which occurs over and
 over again in our environment, and then describes the core of the solution to that
 problem, in such a way that you can use this solution a million times over, without ever
-doing it the same way twice". Even though Alexander was talking
-about patterns in buildings and towns, what he says is true about object-oriented design
-patterns. Our solutions are expressed in terms of objects and interfaces instead of walls
-and doors, but at the core of both kinds of patterns is a solution to a problem in a
-context.
+doing it the same way twice. The simple meaning of a design patterns is *a solution to a problem in a
+context*.
 
 In general, a pattern has four essential elements:
 
